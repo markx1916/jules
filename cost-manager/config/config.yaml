@@ -1,2 +1,2 @@
-server:
-  port: "8080"
+server: {port: "8080"}
+database: {host: "localhost", port: "3306", user: "root", password: "password", dbname: "cost_manager"}
